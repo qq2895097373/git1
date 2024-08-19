@@ -74,4 +74,8 @@ public class AppTest extends TestCase {
     }
 
 
+    public void test06(){
+        System.out.println("测试!");
+    }
+
 }
